@@ -6,14 +6,6 @@ This repository hosts the website for SchoolsOfEasternNevada. The site can be ho
 
 ---
 
-## Table of Contents
-
-- [Website](#Website)
-- [Deployment](#Deployment)
-- [Running Locally](#RunLocally)
-- [Custom Domains With GitHub Pages](#GithubPages)
----
-
 ## Website
 
 Visit the website for this repository at:
